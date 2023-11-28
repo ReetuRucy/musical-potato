@@ -1,0 +1,52 @@
+.about {
+    background-color: #b2aeae;
+    height: 70vh;
+}
+
+h1 {
+    color: #000;
+    position: relative;
+    text-align: center;
+    padding-top: 3%;
+}
+
+p {
+    display: flex;
+    color: #000;
+    text-align: left;
+    position: relative;
+    padding-left: 20%;
+    padding-top: 2%;
+    font-size: 20px;
+}
+
+#abt {
+    position: relative;
+    width: 11%;
+    background-color: #111111;
+    border-radius: 55%;
+}
+
+section {
+    position: relative;
+    text-align: left;
+    padding-left: 20%;
+}
+
+hr {
+    position: relative;
+    background-color: #ffff;
+    width: 15%;
+}
+
+.pic {
+    position: absolute;
+    display: flex;
+    max-width: 50%;
+    max-height: 50%;
+    margin-left: 70%;
+    border: 3px solid #ffff;
+    border-inline-start-style: dotted;
+    border-inline-end-style: dotted;
+    border-radius: 35px;
+}

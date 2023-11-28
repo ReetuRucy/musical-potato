@@ -1,0 +1,17 @@
+.contact {
+    background-color: #b2aeae;
+    height: 50vh;
+}
+
+h1 {
+    color: #000;
+    position: relative;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.reach {
+    text-align: center;
+    padding-top: 3%;
+    font-size: large;
+}
